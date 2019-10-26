@@ -1,5 +1,6 @@
 {
-  "name": "postcss-rtl",
+  "name": "@yanxlg/postcss-rtl",
+  "private": false,
   "description": "Engineering realization of RTL conversion",
   "version": "1.0.0",
   "main": "index.js",
