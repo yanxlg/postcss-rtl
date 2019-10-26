@@ -1,0 +1,33 @@
+{
+  "name": "postcss-rtl",
+  "description": "Engineering realization of RTL conversion",
+  "version": "1.0.0",
+  "main": "index.js",
+  "module": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pub": "rc-tools run pub"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanxlg/postcss-rtl.git"
+  },
+  "keywords": [
+    "rtl"
+  ],
+  "author": "yanxlg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanxlg/postcss-rtl/issues"
+  },
+  "homepage": "https://github.com/yanxlg/postcss-rtl#readme",
+  "dependencies": {
+
+  },
+  "decDpendencies": {
+    "rc-tools": "^9.5.3",
+    "rtlcss": "^2.4.0",
+    "postcss": "^7.0.21"
+  }
+}
